@@ -1,5 +1,5 @@
 # Aman
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanZayn7&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanZayn7&show_icons=true&theme=radical)
 Hi, I'm an Undergad Data Analytics Student from Asia Pacific University (Malaysia) and De Montfort University (United Kingdom).
 I work at the intersection of structured data systems and applied analytics. My focus is building clean, reproducible workflows from raw data preparation to model evaluation and decision-oriented outputs. I’m particularly interested in forecasting, regression-based modeling, and practical business analytics.
 
