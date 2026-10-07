@@ -1,4 +1,4 @@
-# Aman
+# Aman https://amanzayn.netlify.app/
 Hi, I'm an Undergad Data Analytics Student from Asia Pacific University (Malaysia) and De Montfort University (United Kingdom).
 I work at the intersection of structured data systems and applied analytics. My focus is building clean, reproducible workflows from raw data preparation to model evaluation and decision-oriented outputs. I’m particularly interested in forecasting, regression-based modeling, and practical business analytics.
 
