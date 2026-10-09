@@ -18,7 +18,7 @@ A Power BI report connecting executive performance, product economics, and custo
 
 `Power BI` `Power Query` `DAX` `Data modeling` `Sales analytics`
 
-[Repository](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard) · [Download report](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard/blob/main/global-electronics.pbix)
+[Download report](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard/blob/main/global-electronics.pbix)
 
 ### [Asia Pacific Tourism Forecast](https://github.com/AmanZayn7/apac-tourism-fyp)
 
@@ -30,7 +30,6 @@ My final-year tourism forecasting project covers Singapore, Hong Kong, and a Tha
 
 ### [Explore Dashboard](https://apac-tourism.streamlit.app/)
 
-[Repository](https://github.com/AmanZayn7/apac-tourism-fyp)
 
 ### [Causyn — Ecommerce Analytics](https://github.com/AmanZayn7/Causyn)
 
@@ -42,7 +41,6 @@ An analytics application for exploring historical Olist ecommerce data through g
 
 ### [Explore Platform](https://causyn.onrender.com/)
 
-[Repository](https://github.com/AmanZayn7/Causyn)
 
 ### [Medical Information System](https://github.com/AmanZayn7/medical-info-system-sqlserver)
 
@@ -52,7 +50,7 @@ A SQL Server project implementing role-based access, column-level encryption, au
 
 `SQL Server` `T-SQL` `Database security` `Access control`
 
-[Repository](https://github.com/AmanZayn7/medical-info-system-sqlserver) · [Test results](https://github.com/AmanZayn7/medical-info-system-sqlserver/actions/runs/37978584788)
+[Test results](https://github.com/AmanZayn7/medical-info-system-sqlserver/actions/runs/37978584788)
 
 ## Skills
 
