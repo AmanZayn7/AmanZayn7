@@ -2,11 +2,11 @@
 
 Data Analytics undergraduate · Asia Pacific University, Malaysia / De Montfort University, UK
 
-[Portfolio](https://amanzayn.netlify.app/) · [Forecasting dashboard](https://apac-tourism.streamlit.app/) · [Causyn demo](https://causyn.onrender.com)
+[Portfolio](https://amanzayn.netlify.app/)
 
 Hi, I'm Aman. I work with SQL, Python, R, and Power BI to explore data, evaluate forecasts, and explain business performance. My projects cover tourism, retail, ecommerce, and database security.
 
-I'm especially interested in the decisions behind an analysis: how tables are joined, what a metric actually measures, and whether a model improves on a simple baseline. I document those choices alongside the results so others can follow the work.
+I build analytical workflows from raw data to validated models and interactive dashboards, combining statistical rigor with clear business interpretation.
 
 ## Selected projects
 
@@ -36,20 +36,44 @@ A SQL Server project implementing role-based access, column-level encryption, au
 
 ## Skills
 
-| Area | Tools and methods |
-| --- | --- |
-| Analysis and reporting | SQL, Excel, Power BI, Power Query, DAX, SAS Studio |
-| Programming | Python, R; additional coursework in Java and Rust |
-| Data preparation | Cleaning, transformation, exploratory analysis, feature engineering |
-| Modeling | Regression, random forests, XGBoost, time-series forecasting, baseline comparison |
-| Development | Git, Jupyter, Streamlit, Docker, GitHub Actions |
+### Analysis and reporting
 
-## Education and certifications
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+![SAS Studio](https://img.shields.io/badge/SAS%20Studio-007CC3?style=for-the-badge)
 
-Undergraduate study in Data Analytics at Asia Pacific University, Malaysia, and De Montfort University, UK.
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+Java and Rust: additional university coursework.
+
+### Data and modeling
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+
+Data cleaning and transformation · Exploratory analysis · Feature engineering · Regression · Random forests · Time-series forecasting · Baseline evaluation
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Certifications
 
 - IBM — Data Analysis with Python
 - Google — Foundations of Project Management
-- Google — Google Analytics Certification
+- SAS — Professional Certification of Achievement
 
 More projects and background are available on my [portfolio](https://amanzayn.netlify.app/).
