@@ -52,15 +52,20 @@ A SQL Server project implementing role-based access, column-level encryption, au
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-Java and Rust: additional university coursework.
-
 ### Data and modeling
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-Data cleaning and transformation · Exploratory analysis · Feature engineering · Regression · Random forests · Time-series forecasting · Baseline evaluation
+![Data cleaning](https://img.shields.io/badge/Data%20Cleaning-315A78?style=for-the-badge)
+![Data transformation](https://img.shields.io/badge/Data%20Transformation-315A78?style=for-the-badge)
+![Exploratory analysis](https://img.shields.io/badge/Exploratory%20Analysis-315A78?style=for-the-badge)
+![Feature engineering](https://img.shields.io/badge/Feature%20Engineering-315A78?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-315A78?style=for-the-badge)
+![Random forests](https://img.shields.io/badge/Random%20Forests-315A78?style=for-the-badge)
+![Time-series forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-315A78?style=for-the-badge)
+![Baseline evaluation](https://img.shields.io/badge/Baseline%20Evaluation-315A78?style=for-the-badge)
 
 ### Development
 
