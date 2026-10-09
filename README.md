@@ -2,7 +2,7 @@
 
 Data Analytics graduate · April 2026 · Asia Pacific University, Malaysia / De Montfort University, UK
 
-[Portfolio](https://amanzayn.netlify.app/)
+### [Portfolio](https://amanzayn.netlify.app/)
 
 Hi, I'm Aman. I work with SQL, Python, R, and Power BI to explore data, evaluate forecasts, and explain business performance. My projects cover tourism, retail, ecommerce, and database security.
 
@@ -28,7 +28,9 @@ My final-year tourism forecasting project covers Singapore, Hong Kong, and a Tha
 
 `Python` `pandas` `scikit-learn` `XGBoost` `Streamlit` `Time series`
 
-[Repository](https://github.com/AmanZayn7/apac-tourism-fyp) · [Dashboard](https://apac-tourism.streamlit.app/)
+### [Dashboard](https://apac-tourism.streamlit.app/)
+
+[Repository](https://github.com/AmanZayn7/apac-tourism-fyp)
 
 ### [Causyn — Ecommerce Analytics](https://github.com/AmanZayn7/Causyn)
 
@@ -38,7 +40,9 @@ An analytics application for exploring historical Olist ecommerce data through g
 
 `Python` `PostgreSQL` `SQL` `AI agents` `Docker`
 
-[Repository](https://github.com/AmanZayn7/Causyn) · [Explore demos](https://causyn.onrender.com/)
+### [Explore demos](https://causyn.onrender.com/)
+
+[Repository](https://github.com/AmanZayn7/Causyn)
 
 ### [Medical Information System](https://github.com/AmanZayn7/medical-info-system-sqlserver)
 
