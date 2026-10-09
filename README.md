@@ -1,6 +1,6 @@
 ![Abdul Muhaimin Aman — Data Analytics, Business Intelligence and Applied Machine Learning](assets/header.svg)
 
-Data Analytics undergraduate · Asia Pacific University, Malaysia / De Montfort University, UK
+Data Analytics graduate · April 2026 · Asia Pacific University, Malaysia / De Montfort University, UK
 
 [Portfolio](https://amanzayn.netlify.app/)
 
@@ -20,7 +20,7 @@ A Power BI report connecting executive performance, product economics, and custo
 
 [Repository](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard) · [Download report](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard/blob/main/global-electronics.pbix)
 
-### [APAC Travel Observatory](https://github.com/AmanZayn7/apac-tourism-fyp)
+### [Asia Pacific Tourism Forecast](https://github.com/AmanZayn7/apac-tourism-fyp)
 
 **3 market series · 7 candidates across 5 model families · 2015–2024 inputs**
 
@@ -81,6 +81,6 @@ A SQL Server project implementing role-based access, column-level encryption, au
 
 - IBM — Data Analysis with Python
 - Google — Foundations of Project Management
-- SAS — Professional Certification of Achievement
+- SAS / Asia Pacific University — Professional Certificate of Achievement
 
 More projects and background are available on my [portfolio](https://amanzayn.netlify.app/).
