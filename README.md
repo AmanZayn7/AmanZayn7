@@ -1,55 +1,55 @@
-# Aman https://amanzayn.netlify.app/
-Hi, I'm an Undergad Data Analytics Student from Asia Pacific University (Malaysia) and De Montfort University (United Kingdom).
-I work at the intersection of structured data systems and applied analytics. My focus is building clean, reproducible workflows from raw data preparation to model evaluation and decision-oriented outputs. I’m particularly interested in forecasting, regression-based modeling, and practical business analytics.
+# Abdul Muhaimin Aman
 
-# Technical Skills
-## Data & Modeling
+Data Analytics undergraduate · Asia Pacific University, Malaysia / De Montfort University, UK
 
-Data Cleaning & Transformation
+[Portfolio](https://amanzayn.netlify.app/) · [Forecasting dashboard](https://apac-tourism.streamlit.app/) · [Causyn demo](https://causyn.onrender.com)
 
-Exploratory Data Analysis
+Hi, I'm Aman. I work with SQL, Python, R, and Power BI to explore data, evaluate forecasts, and explain business performance. My projects cover tourism, retail, ecommerce, and database security.
 
-Feature Engineering
+I'm especially interested in the decisions behind an analysis: how tables are joined, what a metric actually measures, and whether a model improves on a simple baseline. I document those choices alongside the results so others can follow the work.
 
-Regression & Machine Learning Models
+## Selected projects
 
-Time Series Forecasting
+### [Global Electronics — Sales & Profitability](https://github.com/AmanZayn7/global-electronics-powerbi-dashboard)
 
-## Machine Learning
+A three-page Power BI report covering executive performance, product economics, and customer behavior across 62,884 sales line items. The analysis examines revenue changes, gross margins, repeat purchasing, and channel mix, with findings tied to specific years and filters.
 
-Ridge Regression
+`Power BI` `Power Query` `DAX` `Data modeling` `Sales analytics`
 
-Random Forest
+### [APAC Travel Observatory](https://github.com/AmanZayn7/apac-tourism-fyp)
 
-XGBoost
+My final-year tourism forecasting project compares seven model candidates across Singapore, Hong Kong, and a Thailand series used as a Bangkok proxy. It uses chronological validation and a separate reporting holdout, and shows where simple baselines remain competitive. An interactive Streamlit dashboard presents the historical research results and forecasts.
 
-Seasonal Naïve Baseline
+`Python` `pandas` `scikit-learn` `XGBoost` `Streamlit` `Time series`
 
-Prophet (benchmark modeling)
+### [Causyn — Ecommerce Analytics](https://github.com/AmanZayn7/Causyn)
 
-## Certifications
+An analytics application for exploring historical Olist ecommerce data through guided questions. It combines PostgreSQL reporting views with AI agents, numerical checks, and charts linked to source evidence. Recorded demos let visitors explore examples without making model requests.
 
-- **IBM – Data Analysis with Python**
-- **Google – Foundations of Project Management**
-- **Google – Google Analytics Certification**
+`Python` `PostgreSQL` `SQL` `AI agents` `Docker`
 
-# Programming Languages
+### [Medical Information System](https://github.com/AmanZayn7/medical-info-system-sqlserver)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+A SQL Server project implementing role-based access, column-level encryption, audit logging, temporal tables, and backup and restore workflows. It explores how doctors, nurses, and patients can work with the same database under different permissions.
 
-# Data & Analytics
+`SQL Server` `T-SQL` `Database security` `Access control`
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SAS Studio](https://img.shields.io/badge/SAS_Studio-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+## Skills
 
-# Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+| Area | Tools and methods |
+| --- | --- |
+| Analysis and reporting | SQL, Excel, Power BI, Power Query, DAX, SAS Studio |
+| Programming | Python, R; additional coursework in Java and Rust |
+| Data preparation | Cleaning, transformation, exploratory analysis, feature engineering |
+| Modeling | Regression, random forests, XGBoost, time-series forecasting, baseline comparison |
+| Development | Git, Jupyter, Streamlit, Docker, GitHub Actions |
+
+## Education and certifications
+
+Undergraduate study in Data Analytics at Asia Pacific University, Malaysia, and De Montfort University, UK.
+
+- IBM — Data Analysis with Python
+- Google — Foundations of Project Management
+- Google — Google Analytics Certification
+
+More projects and background are available on my [portfolio](https://amanzayn.netlify.app/).
