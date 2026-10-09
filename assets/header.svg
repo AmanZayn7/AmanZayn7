@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Abdul Muhaimin Aman — Data Analytics, Business Intelligence, Applied Machine Learning</title>
+<desc id="desc">Navy banner with teal accents, a rising data line and a small chart.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#172f43"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#365568" opacity=".55"/></pattern></defs>
+<rect width="1200" height="280" rx="20" fill="url(#bg)"/><rect x="760" width="440" height="280" fill="url(#grid)"/>
+<rect x="52" y="49" width="42" height="4" rx="2" fill="#5eead4"/>
+<text x="52" y="110" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700">Abdul Muhaimin Aman</text>
+<text x="54" y="153" fill="#91e6d5" font-family="Arial,Helvetica,sans-serif" font-size="20">Data Analytics · Business Intelligence · Applied Machine Learning</text>
+<text x="54" y="211" fill="#b7c7d8" font-family="Arial,Helvetica,sans-serif" font-size="18">SQL · Python · R · Power BI</text>
+<g transform="translate(875 62)"><path d="M0 150H254" stroke="#385366"/><rect x="12" y="102" width="30" height="48" rx="4" fill="#2c5369"/><rect x="68" y="76" width="30" height="74" rx="4" fill="#347486"/><rect x="124" y="42" width="30" height="108" rx="4" fill="#41999e"/><rect x="180" y="15" width="30" height="135" rx="4" fill="#52c8b8"/><path d="M0 104L56 90L112 49L168 61L228 0" fill="none" stroke="#99f6e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><g fill="#e1fff8"><circle cx="0" cy="104" r="4"/><circle cx="56" cy="90" r="4"/><circle cx="112" cy="49" r="4"/><circle cx="168" cy="61" r="4"/><circle cx="228" cy="0" r="4"/></g></g></svg>
