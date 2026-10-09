@@ -28,7 +28,7 @@ My final-year tourism forecasting project covers Singapore, Hong Kong, and a Tha
 
 `Python` `pandas` `scikit-learn` `XGBoost` `Streamlit` `Time series`
 
-### [Dashboard](https://apac-tourism.streamlit.app/)
+### [Explore Dashboard](https://apac-tourism.streamlit.app/)
 
 [Repository](https://github.com/AmanZayn7/apac-tourism-fyp)
 
@@ -40,7 +40,7 @@ An analytics application for exploring historical Olist ecommerce data through g
 
 `Python` `PostgreSQL` `SQL` `AI agents` `Docker`
 
-### [Explore demos](https://causyn.onrender.com/)
+### [Explore Platform](https://causyn.onrender.com/)
 
 [Repository](https://github.com/AmanZayn7/Causyn)
 
